@@ -1,1 +1,2 @@
-Do What The F*ck You Want Public License WTFPL
+CC-BY-4.0
+Creative Commons Attribution 4.0
