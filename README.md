@@ -3,4 +3,4 @@ This repo will contain my personal website code.
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International License — 
-see the [LICENSE](./LICENSE) file for details.
+see the [LICENSE](./LICENSE.txt) file for details.
